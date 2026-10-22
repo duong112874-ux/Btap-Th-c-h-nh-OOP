@@ -1,0 +1,47 @@
+oop_username/
+│
+├── README.md                          
+│
+├── bai_thuc_hanh_01/                 
+│   ├── README.md                      
+│   ├── bai_01_.../
+│   │   ├── de_bai.md
+│   │   ├── main.cpp
+│   │   ├── *.png
+│   │   └── README.md
+│   ├── bai_02_.../
+│   │   ├── de_bai.md
+│   │   ├── main.cpp
+│   │   ├── *.png
+│   │   └── README.md
+│   └── bai_03_.../
+│       ├── de_bai.md
+│       ├── main.cpp
+│       ├── *.png
+│       └── README.md
+│
+├── bai_thuc_hanh_02/
+│   ├── README.md
+│   ├── bai_01_.../
+│   ├── bai_02_.../
+│   └── bai_03_.../
+│
+├── bai_thuc_hanh_03/
+│   ├── README.md
+│   ├── bai_01_.../
+│   ├── bai_02_.../
+│   ├── bai_03_.../
+│   └── bai_04_.../
+│
+├── bai_thuc_hanh_04/
+│   ├── README.md
+│   ├── bai_01_.../
+│   ├── bai_02_.../
+│   └── bai_03_.../
+│
+└── bai_thuc_hanh_05/
+    ├── README.md
+    ├── bai_01_.../
+    ├── bai_02_.../
+    ├── bai_03_.../
+    └── bai_04_.../
